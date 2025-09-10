@@ -43,7 +43,7 @@ Official logo for GAMESBUYSELL (GBS) token).
 
 ## 🌐 Official Links
 - 🌍 Website: [gamesbuysell.io](https://gamesbuysell.io)  
-- 📈 BscScan: [View Contract](https://bscscan.com/address/0x7bfF5c0b7Ac9b496084f7D5a5B70EbdbA459cdeE)  
+- 📈 BscScan: [View Contract](https://bscscan.com/address/0x83fe8E931E52fBbcC9d18DbBc2869E4e44959550)  
 - 🐦 Twitter: [@gamesbuysell](https://twitter.com/gamesbuysell)  
 - 💬 Telegram: [GBS Community](https://t.me/GAMESBUYSELL2)  
 - 📱 WhatsApp Group: [Join Group](https://chat.whatsapp.com/BHSSTh1PuCZ3HTA575E5uZ?mode=ems_copy_c)  
